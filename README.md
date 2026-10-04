@@ -4,7 +4,7 @@ A modern, responsive, and interactive developer portfolio designed to showcase m
 
 The portfolio is built with a focus on **clean UI, responsive design, accessibility, performance, and easy project discovery**.
 
-🌐 **Live Portfolio:** https://anshika-shrivastava.netlify.app/
+🌐 **Live Portfolio:** [https://anshika-shrivastava.netlify.app/](https://anshika-shrivastav.netlify.app/)
 
 ---
 
